@@ -1,0 +1,1 @@
+export const BASE_URL = "https://0rn71f07-8002.inc1.devtunnels.ms/";

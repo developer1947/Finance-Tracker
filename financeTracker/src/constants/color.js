@@ -1,0 +1,12 @@
+export const LightGray='#F6F6F6';
+export const WHITE = '#FFFFFF';
+export const PlumPurple='#632764';
+export const LustRed='#E41717';
+export const BLACK="#263238"
+export const VividRed="#DB222A"
+export const TealBlue="#1F7A8C";
+export const GrayishBlue="#5A6368"
+export const PowderBlue="#D5E6E9"
+export const MistyRose="#FAE2E3"
+export const SlateGray="#898F92"
+export const lightOFFWhite="rgba(0,0,0,0.3)"
